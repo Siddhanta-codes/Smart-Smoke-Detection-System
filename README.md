@@ -1,1 +1,3 @@
 # Smart-Smoke-Detection-System
+
+In this project, I have designed a smoke detection system. Generally, these smoke detection systems available in the markets are stand alone system, and if any fire is caused due to any accident, when no one is around, then the authorities get to know about the incident very late. In this model, as soon as smoke is detected, it will immediately send an SMS alert to the owner of the warehouse or factory. In this way, when the fire is being taken care by the system, the required people also get alerted about this, and can take care of the incident more effectively.
