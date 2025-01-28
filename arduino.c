@@ -2,6 +2,7 @@
 //int pos;
 //Servo Myservo;
 void setup() {
+  //test line
 pinMode(A0, INPUT);//smoke sensor
 pinMode(7, OUTPUT);//led1
 pinMode(8, OUTPUT);//led2
