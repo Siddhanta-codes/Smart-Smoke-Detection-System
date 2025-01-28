@@ -2,7 +2,6 @@
 //int pos;
 //Servo Myservo;
 void setup() {
-// put your setup code here, to run once:
 pinMode(A0, INPUT);//smoke sensor
 pinMode(7, OUTPUT);//led1
 pinMode(8, OUTPUT);//led2
